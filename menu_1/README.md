@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# 테스트 메뉴
+# 메뉴_1
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
