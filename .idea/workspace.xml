@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac73638e-a1b8-4f3b-ae84-6e880e19dc2b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test2/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_long/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_long/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604377325629</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="save">
+      <created>1604377477089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604377477090</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,16 +111,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="save" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="396" y="40" key="CommitChangelistDialog2" timestamp="1604377325544">
+    <state x="396" y="40" key="CommitChangelistDialog2" timestamp="1604377476997">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="297" y="37" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1604339529838" />
-    <state x="396" y="40" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1604377325544" />
-    <state x="427" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604377332549">
+    <state x="396" y="40" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1604377476997" />
+    <state x="427" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604377481941">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1604339541243" />
-    <state x="427" y="238" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1604377332549" />
+    <state x="427" y="238" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1604377481941" />
     <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604339235994">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
