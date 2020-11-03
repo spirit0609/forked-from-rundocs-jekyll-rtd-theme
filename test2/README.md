@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 3
 ---
 
-# This is an incredibly long caption for a long menu
+# 테스트 메뉴
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
